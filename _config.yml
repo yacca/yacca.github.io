@@ -1,2 +1,6 @@
 name: "Yacca's Jekyll Site"
 pygments: true
+domain: yacca.github.io
+analytics:
+  google:
+    tracking_id: UA-41270896-1
